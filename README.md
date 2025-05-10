@@ -1,4 +1,5 @@
-PROJECT IN DEVELOPMENT
+PROJECT IN DEVELOPMENT 
+
 Password Generator using REACT NATIVE!
 
 # Welcome to your Expo app 👋
